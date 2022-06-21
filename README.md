@@ -5,3 +5,7 @@
 ashes and reached out to have a homepage made. As of yet, no real pointers, but i'm at least
 prepping a repo for it. 
 
+Site should mainly focus around upcomig arrangements.
+
+Might need/want a small backend to add stuff to the program page, and/or general info page.
+
